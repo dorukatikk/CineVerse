@@ -1,0 +1,45 @@
+
+html, body, div, p, ul, li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+  }
+
+  body {
+    background-color: #000;
+  }
+  .nav {
+    background: #000;
+    height: 60px;
+  }
+  
+  
+  .nav li {
+    display: inline-flex;
+    list-style: none;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 40px;
+    border-radius: 99px;
+  }
+  
+
+  .nav li:hover {
+    background: paleturquoise;
+    transition: background .3s;
+  
+  }
+  
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    height: 60px;
+  }
+
+
