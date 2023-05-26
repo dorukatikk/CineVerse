@@ -1,21 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>MovieClub</title>
+    <title>Ana Sayfa</title>
+    <link rel="shortcut icon" href="image/logo_favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <nav class="nav">
-        <ul>
-            <li><a href="#" class="nav-link">Home</a></li>
-            <li><a href="#" class="nav-link"><em>Find your taste!</em></a></li>
-            <li><a href="#" class="nav-link">Trends</a></li>
-            <li><a href="#" class="nav-link">Best</a></li>
-          </ul>
+</head>
+<body style="background-color:rgb(36, 34, 34)">
+    <nav>
+        <div class="navbar">
+            <a href="index.html"><img height="60px" width="195px" src="img/logo-transparent.png"></a>
+            <!-- navbar öğeleri yerleştirildi -->
+            <div class="menu">
+                <a href="index.html">Home</a>
+                <a href="index.html">Friends</a>
+                <a href="index.html">leadboard</a>
+                <a href="index.html">News</a>
+
+                
+            </div>
+            <!-- Hamburger menü oluşturuldu -->
+            <button class="hamburger">
+                <!-- Hamburger menü çizgileri eklendi  -->
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+
     </nav>
-	<script src="index.js"></script>
-  </body>
+    <div class="mobile-nav">
+        <a class="mobile_a" href="index.html">Home</a>
+        <a class="mobile_a" href="index.html">Friends</a>
+        <a class="mobile_a" href="index.html">leadboard</a>
+        <a class="mobile_a" href="index.html">News</a>
+    </div>
+    <main class="layout_index_main">
+      <div class="layout_index_main">
+
+      </div>
+        <div class="layout_right_bar">
+            <div style="margin-top: 110px;" class="friends" style="margin: 30px;">
+                <h3>Topics</h3>
+                <a class="friends_menu" href="index.html">#action</a>
+                <a class="friends_menu" href="index.html">#romance</a>
+                <a class="friends_menu" href="index.html">#comedy</a> 
+                <a class="friends_menu" href="index.html">#superHero</a>
+                <a class="friends_menu" href="index.html">#adventure</a>
+                <a class="friends_menu" href="index.html">#drama</a>
+                <a class="friends_menu" href="index.html">#science fiction</a>
+            </div>
+        </div>
+        </div>
+    </main>
+    <script src="index.js"></script>
+</body>
 </html>
