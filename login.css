@@ -46,6 +46,16 @@ body {
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
   }
+  a{
+    background-color: #ff5f6d;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    text-decoration: none;
+  }
   .login-box input[type="submit"]:hover {
     background-color: #e53d59;
   }
