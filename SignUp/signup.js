@@ -28,7 +28,7 @@ function login(e){
         result.innerHTML = 'wrong username'
 
     } else if(username == data.username && password == data.password){
-        location.replace("index.html")
+        location.replace("../index.html")
     }else{
         result.innerHTML = 'wrong password'
     }
