@@ -1,2 +1,5 @@
+![image](https://github.com/dorukatikk/MovieClub/assets/97802665/8ea26ae1-ebf2-43e1-abda-701e19229c0a)
+![image](https://github.com/dorukatikk/MovieClub/assets/97802665/c6923a83-02d6-4031-9321-7341dcf82857)
+![image](https://github.com/dorukatikk/MovieClub/assets/97802665/cf852359-a7f4-4210-9912-c9ce66f3dc91)
 ![image](https://github.com/dorukatikk/insider_final/assets/97802665/0be030ae-ad26-434d-89e7-93159f1cd8d0)
 ![image](https://github.com/dorukatikk/insider_final/assets/97802665/1f311b17-ca40-40d3-9222-1c086ffb41a1)
